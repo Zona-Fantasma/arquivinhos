@@ -1,0 +1,27 @@
+.container{
+	background-color: #EFEFEF;
+	height: 200vh;
+	padding-top: 30px;
+	padding-left: 150px;
+	padding-right: 150px;
+	
+}
+.area{
+	background: #C2C2C2;
+	padding: 30px;
+	height: 200vh;	
+}
+.frase{
+	color: #fff;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+}
+
+
+
+
+@media screen and (max-width:991px){
+	
+}
